@@ -1,7 +1,7 @@
 import tkinter as tk
 
 LARGE_FONT_STYLE = ("Arial", 40, "bold")
-SMALL_FONT_STYLE = ("Arial", 16)
+SMALL_FONT_STYLE = ("Arial", 20)
 DIGITS_FONT_STYLE = ("Arial", 24, "bold")
 DEFAULT_FONT_STYLE = ("Arial", 20)
 
